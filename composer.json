@@ -1,0 +1,17 @@
+{
+    "name": "sparkly/builder",
+    "description": "Page Builder for Sparkly CMS",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Dokov",
+            "email": "ivan@jetspark.io"
+        }
+    ],
+    "require": {
+        "sparkly/cms": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
