@@ -1,6 +1,6 @@
 {
     "name": "sparkly/builder",
-    "description": "Page Builder for Sparkly CMS",
+    "description": "Pages Builder for Sparkly CMS",
     "type": "project",
     "license": "MIT",
     "authors": [
